@@ -1,0 +1,11 @@
+body, html {
+  height: 100%;
+}
+
+#coverrow {
+  background-image: url("../images/cover.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*# sourceMappingURL=project0.css.map */
