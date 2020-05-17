@@ -8,4 +8,13 @@ body, html {
   background-size: cover;
 }
 
+.bg-nav {
+  transition: 500ms ease;
+  background: transparent !important;
+}
+
+.bg-nav.scrolled {
+  background: DimGrey !important;
+}
+
 /*# sourceMappingURL=project0.css.map */
