@@ -10,3 +10,12 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.bg-nav {
+    transition: 500ms ease;
+    background: transparent !important;
+}
+
+.bg-nav.Scrolled {
+    background: black;
+}
